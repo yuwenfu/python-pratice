@@ -36,4 +36,3 @@ for attender in attenders:
 del attenders[1]
 del attenders[0]
 print(attenders)
-print(attenders)
