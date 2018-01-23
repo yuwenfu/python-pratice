@@ -16,7 +16,7 @@ famous_person="Albert Einstein"
 message=famous_person+' once said'+','+'"'+"A person who never made a mistake \
 never tried anything new."+'"'
 print(message)
-#P24 2-7
+#P24 2-7print
 name="\tpython\n"
 print(name.rstrip())
 print(name.lstrip())
